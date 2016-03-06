@@ -30,3 +30,10 @@
  [Android性能优化典范 - 第3季](http://hukai.me/android-performance-patterns-season-3/)<br>
  [SparseArray替代HashMap来提高性能](http://android-performance.com/android/2014/02/10/android-sparsearray-vs-hashmap.html)<br>
  [Android 性能小贴士](http://android-performance.com/android/2014/01/26/android-perf-tips.html)<br>
+ [Android性能调优工具TraceView介绍](http://www.trinea.cn/android/android-traceview/)<br>
+ ####Android内存管理部分<br>
+ [Android 内存泄漏总结](https://yq.aliyun.com/articles/3009)<br>
+ [Android内存泄漏研究](http://jiajixin.cn/2015/01/06/memory_leak/)<br>
+ [使用Memory Analyzer tool(MAT)分析内存泄漏（一）](http://www.blogjava.net/rosen/archive/2010/05/21/321575.html)<br>
+ [使用Memory Analyzer tool(MAT)分析内存泄漏（二）](http://www.blogjava.net/rosen/archive/2010/06/13/323522.html)<br>
+ [LeakCanary: 让内存泄露无所遁形](http://www.liaohuqiu.net/cn/posts/leak-canary/)<br>
