@@ -39,3 +39,5 @@
  [LeakCanary: 让内存泄露无所遁形](http://www.liaohuqiu.net/cn/posts/leak-canary/)<br>
 ####Gradle<br>
 [深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle/)
+####Java加密与解密<br>
+[Java加密技术](http://snowolf.iteye.com/category/68576)
