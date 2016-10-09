@@ -37,6 +37,8 @@
  [使用Memory Analyzer tool(MAT)分析内存泄漏（一）](http://www.blogjava.net/rosen/archive/2010/05/21/321575.html)<br>
  [使用Memory Analyzer tool(MAT)分析内存泄漏（二）](http://www.blogjava.net/rosen/archive/2010/06/13/323522.html)<br>
  [LeakCanary: 让内存泄露无所遁形](http://www.liaohuqiu.net/cn/posts/leak-canary/)<br>
+####Android系统理论相关<br>
+[深入理解：Android 编译系统](http://blog.csdn.net/huangyabin001/article/details/36383031)
 ####Gradle<br>
 [深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle/)
 ####Java加密与解密<br>
