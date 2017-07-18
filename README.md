@@ -46,11 +46,11 @@
 #### 数据结构与算法<br>
 推荐书籍：《大话数据结构》，《图解算法》。<br>
 #### Adnroid源码分析<br>
-[gityuan的博客](http://gityuan.com/)，这个源码分析的系列文章还是很好的<br>
+[gityuan的博客](http://gityuan.com/)，这个源码分析的系列文章还是很好的。<br>
 《深入理解Android内核设计思想》这本书值得一读。<br>
 #### 蓝牙相关<br>
 [GATT Profile 简介](https://race604.com/gatt-profile-intro/)<br>
-[Android蓝牙完全学习手册](http://www.voidcn.com/blog/joychanger/article/p-5974678.html)
+[Android蓝牙完全学习手册](http://www.voidcn.com/blog/joychanger/article/p-5974678.html)<br>
 [蓝牙系列](http://www.wowotech.net/sort/bluetooth)<br>
 [Android低功耗蓝牙](http://blog.csdn.net/qinxiandiqi/article/details/40741269)<br>
 [android 蓝牙源码分析](http://www.cnblogs.com/chenbin7/archive/2012/07/26/2608135.html)<br>
