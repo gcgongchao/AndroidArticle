@@ -3,7 +3,7 @@
 ######声明：该Repository主要用来分享好的博文与学习资料，希望能够对自己摸索学习Android的人有所帮助。如果你有兴趣可以一起参与进来，如果能够对你产生帮助欢迎star或fork。以后会不定期的在这里分享好的文章与学习资源。<br>
 作为一个自学过来的Android程序员，我的知识体系或许不是太完善，但是我所积累的知识都是来源自网络或自己购买的书籍。在网上经常看到有人问如何自学Android、如何提高Android等诸如此类的问题。或许现在的我没有资格来告诉大家如何在Android上进阶或者如何成为Android开发高手，但是我可以告诉大家如何自学Android，毕竟我自己是在没有人指导的情况下一步一步地了解Android，开发Android的。<br>
 ###Android入门<br>
-首先说说自学Android吧：如果想做Android开发，JavaSe的知识不说精通但是最起码也要会基本的语法和能写基本的程序。如果你没有熟悉JavaSe的知识，个人建议你还是JavaSe的知识搞熟练了之后再学习Android。了解与熟悉完JavaSe的内容，我们就需要进入Android的世界了。作为过来人，我个人认为《疯狂Android讲义》这本书作为入门比较不错，想想当时貌似我就是翻了一下这本书入门的。当然这局限于我开始学习Android时，市面上的书籍远远没有现在多（据说《第一行代码》这本书也比较不错）。既然推荐了书籍，那么如何使用呢？个人建议在看每一块知识时，先把书上讲的理论知识搞懂，搞懂之后一定要动手实践去检验理论的理解。坚持每一块知识都这样做，把一本书看完时，你绝对掌握了Android开发的基本知识。这时你就可以自己写点简单的程序，比如写个记事本程序，闹钟程序等等。到此为止，你对于Android开发已经算是入门了，至于提高需要不断的做项目与阅读优秀的代码，多看一些有质量的博客。
+首先说说自学Android吧：如果想做Android开发，JavaSe的知识不说精通但是最起码也要会基本的语法和能写基本的程序。如果你没有熟悉JavaSe的知识，个人建议你还是JavaSe的知识搞熟练了之后再学习Android。了解与熟悉完JavaSe的内容，我们就需要进入Android的世界了。作为过来人，我个人认为《疯狂Android讲义》这本书作为入门比较不错，想想当时貌似我就是翻了一下这本书入门的。当然这局限于我开始学习Android时，市面上的书籍远远没有现在多（据说《第一行代码》这本书也比较不错）。既然推荐了书籍，那么如何使用呢？个人建议在看每一块知识时，先把书上讲的理论知识搞懂，搞懂之后一定要动手实践去检验理论的理解。坚持每一块知识都这样做，把一本书看完时，你绝对掌握了Android开发的基本知识。这时你就可以自己写点简单的程序，比如写个记事本程序，闹钟程序等等。到此为止，你对于Android开发已经算是入门了，至于提高需要不断的做项目与阅读优秀的代码，多看一些有质量的博客。<br>
 ###Android提高<br>
 至于Android开发技能的提高，我现在也没有搞清楚到底提高到什么境界才是头。这里分模块来给大家分享值得阅的博文。<br>
 ####Android动画部分<br>
@@ -38,8 +38,23 @@
  [使用Memory Analyzer tool(MAT)分析内存泄漏（二）](http://www.blogjava.net/rosen/archive/2010/06/13/323522.html)<br>
  [LeakCanary: 让内存泄露无所遁形](http://www.liaohuqiu.net/cn/posts/leak-canary/)<br>
 ####Android系统理论相关<br>
-[深入理解：Android 编译系统](http://blog.csdn.net/huangyabin001/article/details/36383031)
+[深入理解：Android 编译系统](http://blog.csdn.net/huangyabin001/article/details/36383031)<br>
 ####Gradle<br>
-[深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle/)
+[深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle/)<br>
 ####Java加密与解密<br>
 [Java加密技术](http://snowolf.iteye.com/category/68576)
+####数据结构与算法<br>
+推荐书籍：《大话数据结构》，《图解算法》。<br>
+####Adnroid源码分析<br>
+[gityuan的博客](http://gityuan.com/)，这个源码分析的系列文章还是很好的<br>
+《深入理解Android内核设计思想》这本书值得一读。<br>
+####蓝牙相关<br>
+[GATT Profile 简介](https://race604.com/gatt-profile-intro/)<br>
+[Android蓝牙完全学习手册](http://www.voidcn.com/blog/joychanger/article/p-5974678.html)
+[蓝牙系列](http://www.wowotech.net/sort/bluetooth)<br>
+[Android低功耗蓝牙](http://blog.csdn.net/qinxiandiqi/article/details/40741269)<br>
+[android 蓝牙源码分析](http://www.cnblogs.com/chenbin7/archive/2012/07/26/2608135.html)<br>
+[微信蓝牙开发](http://www.vxzsk.com/174.html)<br>
+####插件化<br>
+[Android插件化从入门到放弃-最强合集](http://www.jianshu.com/p/353514d315a7)<br>
+
